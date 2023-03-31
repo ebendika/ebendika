@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ebendika</h1>
+<h1 align="center">Hi there 👋, I'm ebendika</h1>
 <h3 align="center">A passionate computer student from Spain</h3>
 
 - 📫 How to reach me **eexpositobe@uoc.edu**
